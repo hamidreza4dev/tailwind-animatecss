@@ -1,8 +1,8 @@
 {
-  "name": "tailwind-animatecss",
+  "name": "animatecss-tailwind",
   "version": "1.0.0",
   "description": "This plugin helps you use [animateCss](https://animate.style/) animation in tailwind.",
-  "main": "tailwind-animatecss.js",
+  "main": "animatecss-tailwind.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

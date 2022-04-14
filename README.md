@@ -10,7 +10,7 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [require('tailwind-animatecss')],
+  plugins: [require('animatecss-tailwind')],
 };
 ```
 
@@ -64,6 +64,6 @@ module.exports = {
       3: '3000',
     },
   },
-  plugins: [require('tailwind-animatecss')],
+  plugins: [require('animatecss-tailwind')],
 };
 ```
