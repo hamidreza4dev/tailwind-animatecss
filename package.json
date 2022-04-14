@@ -1,12 +1,20 @@
 {
   "name": "tailwind-animatecss",
   "version": "1.0.0",
-  "description": "",
+  "description": "This plugin helps you use [animateCss](https://animate.style/) animation in tailwind.",
   "main": "tailwind-animatecss.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["tailwindcss", "tailwindcss animatecss", "animatecss", "animate css"],
+  "author": "Hamidreza Firouzi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidreza4dev/tailwind-animatecss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hamidreza4dev/tailwind-animatecss/issues"
+  },
+  "homepage": "https://github.com/hamidreza4dev/tailwind-animatecss#readme"
 }
